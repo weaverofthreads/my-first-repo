@@ -1,0 +1,73 @@
+commit 2eab838e29794908edec4c129b2a811ed430f6f4
+Author: weaverofthreads <cranebe@gmail.com>
+Date:   Thu Dec 6 21:16:48 2018 -0500
+
+    added gitignore
+
+commit 2063a91563ede41e7eeccaa87f17a32534fe55e0
+Merge: 85e94a3 aa16ac5
+Author: weaverofthreads <cranebe@gmail.com>
+Date:   Thu Dec 6 21:12:07 2018 -0500
+
+    resolved confilct
+
+commit aa16ac5f09e940e698fa29a0a97f50c90d2c8c43
+Author: weaverofthreads <cranebe@gmail.com>
+Date:   Thu Dec 6 21:10:39 2018 -0500
+
+    added text to file3.txt
+
+commit 85e94a31b30e3b4fa66811ec76a24def9958b8c0
+Author: weaverofthreads <cranebe@gmail.com>
+Date:   Thu Dec 6 21:09:39 2018 -0500
+
+    added text to file3.txt
+
+commit 800eb01cb26a027318dea2604495eb2c1b0e905a
+Author: weaverofthreads <cranebe@gmail.com>
+Date:   Thu Dec 6 21:08:09 2018 -0500
+
+    added new file to third branch
+
+commit 78c1f3fb20fde9b56613dd1285d9e1b492cb6972
+Merge: e40e72e 7983bbc
+Author: weaverofthreads <cranebe@gmail.com>
+Date:   Thu Dec 6 21:05:10 2018 -0500
+
+    resolved conflicts
+
+commit e40e72ebedd3fd71c96ab4d7e985293dab74ceb7
+Author: weaverofthreads <cranebe@gmail.com>
+Date:   Thu Dec 6 21:02:44 2018 -0500
+
+    changed sunny to windy
+
+commit 7983bbc97256f28ad0c8a8a0cc58c9c6f91f63b3
+Author: weaverofthreads <cranebe@gmail.com>
+Date:   Thu Dec 6 21:01:40 2018 -0500
+
+    changed sunny to cloudy
+
+commit ba1e29fab693b9dcffcf1c52b26f05cc2f13d90e
+Author: weaverofthreads <cranebe@gmail.com>
+Date:   Thu Dec 6 20:59:05 2018 -0500
+
+    added weather info
+
+commit b5513b12d7739348ea1e07d78f2b2a338fd75085
+Author: weaverofthreads <cranebe@gmail.com>
+Date:   Thu Dec 6 20:57:28 2018 -0500
+
+    added a third line to readme.txt
+
+commit 3dcdffa42d42d10b368a77c8b568e52631ae3498
+Author: weaverofthreads <cranebe@gmail.com>
+Date:   Thu Dec 6 20:53:40 2018 -0500
+
+    added two files
+
+commit 50c32880e4357d05dc06b1371e1d70f8c8a4c0de
+Author: weaverofthreads <cranebe@gmail.com>
+Date:   Thu Dec 6 20:47:47 2018 -0500
+
+    added readme.txt
